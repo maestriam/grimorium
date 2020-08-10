@@ -1,0 +1,14 @@
+{
+    "name": "maestriam/grimorium",
+    "type": "library",
+    "require": {
+        "erusev/parsedown-extra": "^0.8.1"
+    },
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Giuliano Sampaio",
+            "email": "giuguitar@gmail.com"
+        }
+    ]
+}
